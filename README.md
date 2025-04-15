@@ -42,6 +42,7 @@ Borrow out = A'Bin + A'B + BBin
 
 ![Screenshot 2025-04-15 111052](https://github.com/user-attachments/assets/fee5a37e-af32-44ed-b296-9e7b7556d6c8)
 
+
 **Full Subtractor:** 
 
 ![Screenshot 2025-04-15 111106](https://github.com/user-attachments/assets/a178ebf5-511f-4835-863b-705d7059fb77)
